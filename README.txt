@@ -1,6 +1,6 @@
 # Random Optimization
  
-Download repository from https://github.com/Spy7Dragon/Supervised-Learning.
+Download repository from https://github.com/Spy7Dragon/Randomized-Optimization
 
 Install for python 3.7
 pip install mlrose
